@@ -25,7 +25,7 @@ Javascript, HTML and CSS
 - The 2 sections you need to build for this project are:  the tool bar and the headline section
 
 **Deployment**
-Please go to this link to deploy the webpage: [Portfolio] (https://alejandrakeber.github.io/)
+Please go to this link to deploy the webpage: [Portfolio](https://alejandrakeber.github.io/)
 
 **Authors**
 👤 Autor1: Alejandra Keber Maggi 
