@@ -1,8 +1,8 @@
 # Portfolio-setup-and-mobile-first
 
-Description of the project:
+**Description of the project:**
 - Set up a new repository and prepare it for development using best practices (e.g. linters).
-- Build the first 2 sections of the mobile website using the template you chose in the previous step.
+- Build the mobile and desktop website using the template 1 of Figma.
 
 **Built With**
 Javascript, HTML and CSS
@@ -23,6 +23,9 @@ Javascript, HTML and CSS
 **Project Requirements:**
 - For this project, you should use the HTML&CSS linter
 - The 2 sections you need to build for this project are:  the tool bar and the headline section
+
+**Deployment:**
+- Please go to this link to deploy the webpage: [Portfolio](https://alejandrakeber.github.io/)
 
 **Authors**
 👤 Autor1: Alejandra Keber Maggi 
